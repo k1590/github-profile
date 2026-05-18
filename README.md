@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Biju</h1>
-<h3 align="center">Data Science Student | ML Enthusiast | Full Stack Developer</h3>
+<h3 align="center">Data Science Student | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=k1590&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -15,7 +15,6 @@
 - 🤝 Open to collaborating on **ML, Web Dev, and Open Source projects**
 - 🌱 Currently learning **Deep Learning, MERN Stack, and Advanced Data Analytics**
 - 💬 Ask me about **Python, ML, Frontend, and GitHub**
-- ⚡ Fun fact: I build projects with **clean UI designs** that are easy to explain and present
 
 ---
 
@@ -77,13 +76,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎬 **Movie Recommendation System** | ML-based engine using content filtering and cosine similarity to suggest movies based on user preferences. |
-| 💰 **Personal Finance Tracker** | Web-based finance management with dashboard visualization, expense tracking, and chatbot UI. |
-| 📊 **Student Performance Prediction** | Predictive analytics using ML algorithms to analyze and forecast student academic performance. |
+<!-- START_PROJECTS -->
+_Automatically generated from my GitHub repositories_
+<!-- END_PROJECTS -->
 
 ---
 
